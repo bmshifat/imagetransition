@@ -77,7 +77,7 @@ canvas {
   transition: all 0.8s ease;
 }
 .about .social.portfolio .icon {
-  background-image: url(https://raw.githubusercontent.com/bmshifat/Credit-Card-Form/main/css/FB.png);
+  background-image: url(https://raw.githubusercontent.com/bmshifat/Credit-Card-Form/main/css/FB.svg);
 }
 .about:hover .social.portfolio {
   right: 0;
